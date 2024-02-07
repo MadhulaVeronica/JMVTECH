@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JVMTECH/static/css/main.7ba72fa7.css",
+    "main.js": "/JVMTECH/static/js/main.367da493.js",
+    "static/js/592.7f72a991.chunk.js": "/JVMTECH/static/js/592.7f72a991.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/JVMTECH/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/JVMTECH/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/pie.png": "/JVMTECH/static/media/pie.0e67f275ff8afed77bcf.png",
+    "static/media/grid.png": "/JVMTECH/static/media/grid.335c2fcc313540ac179f.png",
+    "static/media/roc.png": "/JVMTECH/static/media/roc.80286eac3b48baa1f261.png",
+    "static/media/preg.png": "/JVMTECH/static/media/preg.104fd41fbfd51efbf23f.png",
+    "static/media/lreg.png": "/JVMTECH/static/media/lreg.0bffac5bf76818e415d2.png",
+    "static/media/cm.png": "/JVMTECH/static/media/cm.2586cadcd5cacecd1323.png",
+    "index.html": "/JVMTECH/index.html",
+    "main.7ba72fa7.css.map": "/JVMTECH/static/css/main.7ba72fa7.css.map",
+    "main.367da493.js.map": "/JVMTECH/static/js/main.367da493.js.map",
+    "592.7f72a991.chunk.js.map": "/JVMTECH/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ba72fa7.css",
+    "static/js/main.367da493.js"
+  ]
+}
